@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#3B94D0</color>
+    <color name="red">#DC2929</color>
+    <color name="backgroundMain">#FDFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textGray">#605F64</color>
+    <color name="iconGray">#605F64</color>
+    <color name="scheduleIcon">#605F64</color>
+    <color name="scheduleIconDark">#BDBDBD</color>
+    <color name="bgGray">#F4F4F4</color>
+    <color name="bgGrayLight">#FAFAFA</color>
+    <color name="darkGray">#BDBDBD</color>
+    <color name="menuColorGray">#ACACAC</color>g
+
+    <color name="blue">#BAEEFF</color>
+    <color name="green">#BAFFD6</color>
+    <color name="yellow">#F1FFBA</color>
+    <color name="purple">#DFACFA</color>
+    <color name="pink">#FFBAF8</color>
+</resources>

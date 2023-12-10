@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "359860558538",
+    "project_id": "dailyflow-7992c",
+    "storage_bucket": "dailyflow-7992c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359860558538:android:d1ccd37ef2f1217132b233",
+        "android_client_info": {
+          "package_name": "com.example.diaryplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359860558538-th6kq8rum9s457qes82oc1vh21rpi1tp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diaryplanner",
+            "certificate_hash": "31bce877c05fcd163dc7faa6b51a72e2dd4a9fb9"
+          }
+        },
+        {
+          "client_id": "359860558538-a5394cs1lfl2r66qsiuo1ev2omet9rqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAPWBbkJ-2qRLB6bRbaq1dMy0g3Ou5mzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359860558538-a5394cs1lfl2r66qsiuo1ev2omet9rqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

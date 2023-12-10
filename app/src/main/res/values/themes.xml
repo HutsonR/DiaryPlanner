@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DiaryPlanner" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/backgroundMain</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.DiaryPlanner" parent="Base.Theme.DiaryPlanner" />
+
+    <style name="BottomNavigationStyle" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="android:background">@color/white</item>
+        <item name="android:stateListAnimator">@null</item> <!-- Отключение аниматора -->
+        <item name="android:theme">@style/BottomNavigationTheme</item>
+    </style>
+
+    <style name="BottomNavigationTheme">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/menuColorGray</item>
+        <item name="colorOnPrimary">@color/primary</item>
+        <item name="android:textColorSecondary">@color/black</item>
+        <!-- остальные нужные атрибуты -->
+    </style>
+
+    <style name="CustomTabText" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="FabCustomShape">
+        <item name="cornerFamily">rounded</item> <!-- Тип закругления (круглые углы) -->
+        <item name="cornerSize">50%</item> <!-- Процент закругления (50% для круглого вида) -->
+        <item name="android:colorBackground">@color/primary</item> <!-- Задний фон -->
+    </style>
+
+</resources>
